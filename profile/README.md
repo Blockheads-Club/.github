@@ -16,7 +16,7 @@
 ---
 
 ## 👋 What is Blockheads Club?
-An unofficial fan project for the game The Blockheads. Everything is open source under **GNU GPLv3**.
+An unofficial fan project for the game The Blockheads. Everything is open source under **GNU GPLv3 or later**.
 
 **Bring your own copy of the game:** our projects contain no game files and download none.
 
@@ -47,7 +47,7 @@ Everyone can open issues and pull requests in the project repositories. Bug repo
 ---
 
 ## 📄 License
-All Blockheads Club projects are licensed under **GNU GPLv3** (GPL-3.0-only).
+All Blockheads Club projects are licensed under **GNU GPLv3 or later** (GPL-3.0-or-later): either version 3 of the License, or (at your option) any later version.
 
 Not affiliated with, endorsed by or connected to Majic Jungle or Noodlecake Studios. "The Blockheads" belongs to its
 respective owners.
