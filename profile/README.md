@@ -23,14 +23,14 @@ An unofficial fan project for the game The Blockheads. Everything is open source
 ---
 
 ## 📦 Projects
-| Project | What it does | Latest release |
-|---|---|---|
-| [**Blockheads PC**](https://github.com/Blockheads-Club/blockheads-pc) | Play The Blockheads on your computer: Windows, macOS and Linux | [v0.2.0](https://github.com/Blockheads-Club/blockheads-pc/releases/tag/v0.2.0) |
-| [**Blockheads Patcher**](https://github.com/Blockheads-Club/blockheads-patcher) | Fix crashes and add small improvements to the game on your phone. In the [browser](https://blockheads.club/patcher/), on desktop and on Android; installs the mod loader | [v0.3.0](https://github.com/Blockheads-Club/blockheads-patcher/releases/tag/v0.3.0) |
-| [**Blockheads Server**](https://github.com/Blockheads-Club/blockheads-server) | Host your own server for friends: on your PC, a Linux box, Docker or your phone. Runs mods | [v0.2.0](https://github.com/Blockheads-Club/blockheads-server/releases/tag/v0.2.0) |
-| [**Mod SDK**](https://github.com/Blockheads-Club/mod-sdk) | Write mods in Lua, WebAssembly (Rust, C, Go, Zig) or Java: server mods, client mods, cosmetics, items | [v0.3.0](https://github.com/Blockheads-Club/mod-sdk/releases/tag/v0.3.0) |
-| [**Mods**](https://github.com/Blockheads-Club/mods) | The public mod index, browsable at [blockheads.club/mods](https://blockheads.club/mods) | — |
-| [**Website**](https://github.com/Blockheads-Club/website) | [blockheads.club](https://blockheads.club/): downloads, guides and docs | — |
+| Project | What it does |
+|---|---|
+| [**Blockheads PC**](https://github.com/Blockheads-Club/blockheads-pc) | Play The Blockheads on your computer: Windows, macOS and Linux |
+| [**Blockheads Patcher**](https://github.com/Blockheads-Club/blockheads-patcher) | Fix crashes and add small improvements to the game on your phone. In the [browser](https://blockheads.club/patcher/), on desktop and on Android; installs the mod loader |
+| [**Blockheads Server**](https://github.com/Blockheads-Club/blockheads-server) | Host your own server for friends: on your PC, a Linux box, Docker or your phone. Runs mods |
+| [**Mod SDK**](https://github.com/Blockheads-Club/mod-sdk) | Write mods in Lua, WebAssembly (Rust, C, Go, Zig) or Java: server mods, client mods, cosmetics, items |
+| [**Mods**](https://github.com/Blockheads-Club/mods) | The public mod index, browsable at [blockheads.club/mods](https://blockheads.club/mods) |
+| [**Website**](https://github.com/Blockheads-Club/website) | [blockheads.club](https://blockheads.club/): downloads, guides and docs |
 
 All projects are in early (alpha) pre-release.
 
