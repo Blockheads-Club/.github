@@ -26,7 +26,7 @@
       Play on your computer: Windows, macOS and Linux, with mouse, keyboard or a controller.
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://github.com/Blockheads-Club/blockheads-patcher"><img src="https://raw.githubusercontent.com/Blockheads-Club/blockheads-patcher/dev/app/static/favicon.svg" width="96" alt=""></a>
+      <a href="https://github.com/Blockheads-Club/blockheads-patcher"><img src="https://raw.githubusercontent.com/Blockheads-Club/blockheads-patcher/dev/app/src/lib/assets/patcher-icon.svg" width="96" alt=""></a>
       <h3><a href="https://github.com/Blockheads-Club/blockheads-patcher">Patcher</a></h3>
       Fix the frozen popup and crashes on new phones. Right in your <a href="https://blockheads.club/patcher/">browser</a>.
     </td>
